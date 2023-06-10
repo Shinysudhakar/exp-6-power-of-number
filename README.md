@@ -1,6 +1,7 @@
 # exp-6-power-of-number
 Java-Experiment-6
 Method Creation
+
 Aim:
 To write a Java program to create a method to calculate power of a number raised to other.
 
